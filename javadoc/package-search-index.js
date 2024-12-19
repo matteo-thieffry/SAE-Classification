@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.univlille"},{"l":"fr.univlille.algoknn"},{"l":"fr.univlille.algoknn.distances"},{"l":"fr.univlille.datamanipulation"},{"l":"fr.univlille.modele"},{"l":"fr.univlille.utils"},{"l":"fr.univlille.validation"},{"l":"fr.univlille.view"}];updateSearchResults();
